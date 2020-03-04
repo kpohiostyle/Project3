@@ -1,0 +1,13 @@
+C:\xam\week3\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.deps.json
+C:\xam\week3\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.dll
+C:\xam\week3\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\ref\MTWSound.dll
+C:\xam\week3\MTWSound\MTWSound\MTWSound\bin\Debug\netstandard2.0\MTWSound.pdb
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.csprojAssemblyReference.cache
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MonkeyTapPage.xaml.g.cs
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfoInputs.cache
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.AssemblyInfo.cs
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.dll
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\ref\MTWSound.dll
+C:\xam\week3\MTWSound\MTWSound\MTWSound\obj\Debug\netstandard2.0\MTWSound.pdb
